@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #444;
+    justify-content: center;
+    align-items: center;
+}
+#button_control{
+    width: 60px;
+    height: 60px;
+    background-color: #ffffff;
+}
+#form_control{
+    position: Absolute;
+    top: 30%;
+    right: 5%;
+    margin: 2px 1em 0 auto;
+}
+#restart{
+    margin: 2%;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 7px;
+}
+h1{
+    color: #ffffff;
+}
+
+#btn1{
+    font-size: 30px;
+    padding: 10px;
+    width: 60px;
+    height: 70px;
+}
+
+#btn2{
+    font-size: 30px;
+    padding: 10px;
+    margin: 2px 1em 0 1em;
+    width: 70px;
+    height: 60px;
+}
